@@ -1,5 +1,7 @@
 # tingu
 
+https://julfift.github.io/tingu/
+
 Ti Ngu
 
 Public repo to show the world Ti Nguyen's real face.
